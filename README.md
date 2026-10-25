@@ -1,5 +1,7 @@
 # yawl-custom-service
 
-> **Status:** old academic/prototype project, not maintained. Needs a YAWL engine of the matching era to run.
+Custom service for the YAWL workflow engine (Java, Ant build).
 
-A custom service built around YAWL workflow tooling.
+**Status:** archived university-era project. Running it needs a YAWL engine of the matching era.
+
+MIT licence.
